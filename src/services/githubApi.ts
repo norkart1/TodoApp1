@@ -6,7 +6,7 @@ import { showToast } from "../utils";
  * @returns {Promise<GitHubInfoResponse>} Promise that resolves to an object containing repository and branch data.
  */
 export const fetchGitHubInfo = async (): Promise<GitHubInfoResponse> => {
-  const username = "NorkCraftNetwork";
+  const username = "maciekt07";
   const repo = "TodoApp";
   const branch = "main";
 
