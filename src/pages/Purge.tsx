@@ -128,7 +128,7 @@ const Purge = () => {
   return (
     <>
       <TopBar title="Purge Tasks" />
-      <ManagementHeader>@@@@@@Select Tasks To Purge</ManagementHeader>
+      <ManagementHeader>Select Tasks To Purge</ManagementHeader>
       <ManagementContainer>
         {doneTasks.length > 0 && renderTasks(doneTasks, "Done Tasks")}
         {notDoneTasks.length > 0 && renderTasks(notDoneTasks, "Not Done Tasks")}
