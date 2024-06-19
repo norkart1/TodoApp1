@@ -62,7 +62,7 @@ export default defineConfig({
         start_url: "/",
         short_name: "Todo App",
         description:
-          "Todo app with many features, including local storage, sharing tasks via link and more! Made by github.com/maciekt07",
+          "Todo app with many features, including local storage, sharing tasks via link and more! Made by google.com",
         name: "Todo App",
         icons: [
           {
